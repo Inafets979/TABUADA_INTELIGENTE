@@ -1,5 +1,5 @@
 from PyQt5.QtWidgets import (
-    QWidget, QLabel, QLineEdit, QPushButton,
+    QWidget, QLabel, QPushButton,
     QVBoxLayout, QHBoxLayout, QTextEdit, QMessageBox, QComboBox, QInputDialog
 )
 import random

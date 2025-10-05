@@ -23,7 +23,6 @@ setup(
     packages=find_packages(),
     install_requires=requirements,
     python_requires='>=3.8',
-    python_requires='>=3.8',
     entry_points={
         "console_scripts": [
             "tabuada=main:main"
