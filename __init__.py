@@ -1,0 +1,2 @@
+from modo_terminal.tabuada_terminal import mostrar_menu, escolher_numero, tabuada_completa, conta_especifica
+from modo_interface.tabuada_interface import TabuadaApp
